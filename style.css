@@ -1,0 +1,35 @@
+*{
+    font-family: "Rimouski";
+}
+
+body{
+    position: relative;
+    top: 3cm;
+    background-color: #3f496d;
+}
+
+header{
+    text-align: center;
+    position: relative;
+    padding-bottom : 50px;
+}
+
+main{
+    text-align: center;
+}
+
+#step-2{
+    visibility: hidden;
+}
+
+#step-3{
+    visibility: hidden;
+}
+
+#lie-detector-1{
+    display: none;
+}
+
+#lie-detector-2{
+    display: none;
+}
